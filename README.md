@@ -1,1 +1,2 @@
-# Leetcode
+A structured collection of my LeetCode C++ solutions, written with clarity and efficiency.
+Each solution includes clear logic, concise explanations, and complexity analysis — built to strengthen problem-solving and algorithmic thinking.
